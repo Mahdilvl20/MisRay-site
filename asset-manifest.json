@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/misray-site/static/css/main.f855e6bc.css",
-    "main.js": "/misray-site/static/js/main.ecd1fff6.js",
-    "static/js/453.3eed300c.chunk.js": "/misray-site/static/js/453.3eed300c.chunk.js",
-    "static/media/logo.svg": "/misray-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/misray-site/index.html",
-    "main.f855e6bc.css.map": "/misray-site/static/css/main.f855e6bc.css.map",
-    "main.ecd1fff6.js.map": "/misray-site/static/js/main.ecd1fff6.js.map",
-    "453.3eed300c.chunk.js.map": "/misray-site/static/js/453.3eed300c.chunk.js.map"
+    "main.css": "/Mahdilvl20/MisRay-site/tree/main/misray-site/static/css/main.f855e6bc.css",
+    "main.js": "/Mahdilvl20/MisRay-site/tree/main/misray-site/static/js/main.8ee3c5e8.js",
+    "static/js/453.3eed300c.chunk.js": "/Mahdilvl20/MisRay-site/tree/main/misray-site/static/js/453.3eed300c.chunk.js",
+    "static/media/logo.svg": "/Mahdilvl20/MisRay-site/tree/main/misray-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mahdilvl20/MisRay-site/tree/main/misray-site/index.html",
+    "main.f855e6bc.css.map": "/Mahdilvl20/MisRay-site/tree/main/misray-site/static/css/main.f855e6bc.css.map",
+    "main.8ee3c5e8.js.map": "/Mahdilvl20/MisRay-site/tree/main/misray-site/static/js/main.8ee3c5e8.js.map",
+    "453.3eed300c.chunk.js.map": "/Mahdilvl20/MisRay-site/tree/main/misray-site/static/js/453.3eed300c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ecd1fff6.js"
+    "static/js/main.8ee3c5e8.js"
   ]
 }
