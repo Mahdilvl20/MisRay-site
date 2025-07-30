@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/MisRay-site/static/js/main.82cdd5f1.js",
+    "main.js": "/MisRay-site/static/js/main.3110fdec.js",
     "index.html": "/MisRay-site/index.html",
-    "main.82cdd5f1.js.map": "/MisRay-site/static/js/main.82cdd5f1.js.map"
+    "main.3110fdec.js.map": "/MisRay-site/static/js/main.3110fdec.js.map"
   },
   "entrypoints": [
-    "static/js/main.82cdd5f1.js"
+    "static/js/main.3110fdec.js"
   ]
 }
